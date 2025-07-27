@@ -30,12 +30,12 @@ A modern pizza ordering web application built with React, showcasing advanced st
 
 ## 🛠 Technologies
 
-- **React** : Component-based UI library
-- **React Router v6.4+** : Routing and data loading (loaders + actions)
+- **React**
+- **React Router v6.4+**
   > Used specifically in this project to explore its data APIs for remote state handling. In future projects, I plan to use **React Query**, which I find more scalable and better suited for real-world data fetching needs.
-- **Redux Toolkit** : Complex UI state management
-- **Tailwind CSS** : Utility-first styling framework
-- **Vite** : Fast development server and build tool
+- **Redux Toolkit**
+- **Tailwind CSS**
+- **Vite**
 
 ## 🎯 Goals
 
@@ -50,11 +50,3 @@ A modern pizza ordering web application built with React, showcasing advanced st
 - Pizza menu and order submission are handled through API calls (GET for menu, POST for new orders)
 - Each order receives a unique ID to allow users to retrieve their order at any time
 - Orders include user data + selected pizzas + optional priority flag
-
-## 💡 Why this project?
-
-This project is part of my personal journey moving from Vue.js to React. I wanted to build something non-trivial to showcase:
-
-- My understanding of the React ecosystem
-- My ability to use modern tools like **Redux**, **Tailwind**, and **React Router 6.4+**
-- My skill in creating performant, structured, and scalable frontend applications
