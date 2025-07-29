@@ -2,7 +2,7 @@ import { formatCurrency } from '../../utils/helpers';
 
 const OrderItem = ({ item, isLoadingIngredients, ingredients }) => {
   const { quantity, name, totalPrice } = item;
-  console.log(isLoadingIngredients);
+
   return (
     <li className="space-y-1 py-3">
       <div className="flex items-center justify-between gap-4 text-sm">
