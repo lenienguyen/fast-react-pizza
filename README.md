@@ -4,14 +4,14 @@ A modern pizza ordering web application built with React, showcasing advanced st
 
 ## 🚀 Features
 
-- 🍕 Dynamic pizza menu fetched from an API
-- 🛒 Add one or multiple pizzas to a cart before checkout
-- 📍 Place orders with name, phone number, address, and optional GPS location
-- ⚡ Mark orders as "priority" for an additional 20% fee, even after placing the order
-- 📦 View your order by its unique ID
-- ❌ No user login required, just input your name
+- Dynamic pizza menu fetched from an API
+- Add one or multiple pizzas to a cart before checkout
+- Place orders with name, phone number, address, and optional GPS location
+- Mark orders as "priority" for an additional 20% fee, even after placing the order
+- View your order by its unique ID
+- No user login required, just input your name
 
-## 🧱 Pages
+## 📄 Pages
 
 - `/` : Homepage
 - `/menu` : Pizza Menu
