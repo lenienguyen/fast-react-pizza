@@ -19,15 +19,6 @@ A modern pizza ordering web application built with React, showcasing advanced st
 - `/order/new` : Place a new order
 - `/order/:orderId` : Look up a past order
 
-## 🧠 State Management
-
-| State | Type            | Managed With         |
-| ----- | --------------- | -------------------- |
-| User  | Global UI state | Redux                |
-| Menu  | Remote data     | React Router Loaders |
-| Cart  | Local UI state  | Redux                |
-| Order | Remote data     | React Router + API   |
-
 ## 🛠 Technologies
 
 - **React**
@@ -36,14 +27,6 @@ A modern pizza ordering web application built with React, showcasing advanced st
 - **Redux Toolkit**
 - **Tailwind CSS**
 - **Vite**
-
-## 🎯 Goals
-
-- Practice advanced **React Router data APIs** (loaders, actions)
-- Improve fluency in **Redux** for UI state
-- Explore **clean architecture patterns** in a React SPA
-- Showcase project structure, component modularity, and responsiveness
-- Avoid using third-party payment APIs or login systems to stay focused on front-end architecture
 
 ## 📦 API Integration
 
