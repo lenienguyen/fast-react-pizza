@@ -22,8 +22,7 @@ A modern pizza ordering web application built with React, showcasing advanced st
 ## 🛠 Technologies
 
 - **React**
-- **React Router v6.4+**
-  > Used specifically in this project to explore its data APIs for remote state handling. In future projects, I plan to use **React Query**, which I find more scalable and better suited for real-world data fetching needs.
+- **React Router**
 - **Redux Toolkit**
 - **Tailwind CSS**
 - **Vite**
